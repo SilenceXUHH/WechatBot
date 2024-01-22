@@ -200,3 +200,11 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
+
+## Sponsor
+We are proudly sponsored by DartNode.  DartNode supports our project by providing [mention the specific support they offer, such as infrastructure, services, etc.].
+websize:https://dartnode.com
+
+[![DartNode Logo](https://app.dartnode.com/assets/dash/images/brand/favicon.png)](https://dartnode.com)
+
+Please consider supporting DartNode as they are not only supporting us but also contributing to the open-source community.
